@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tablas de Frecuencia</string>
+
+    <string-array name="cabecera_tabla">
+        <item>Número de clase</item>
+        <item>Intervalo de clase</item>
+        <item>Fi</item>
+        <item>LRI</item>
+        <item>LRS</item>
+        <item>Xi</item>
+        <item>FiXi</item>
+        <item>Fi/Xi</item>
+        <item>Ui</item>
+        <item>FiUi</item>
+        <item>log Xi</item>
+        <item>Fi log Xi</item>
+        <item>Fr(%)</item>
+        <item>Fa</item>
+        <item>Fra(%)</item>
+
+    </string-array>
+
+</resources>
